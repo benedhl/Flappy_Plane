@@ -1,5 +1,6 @@
 # Flappy_Plane
-Trabalho Final Jogos Digitais, Flappy Plane em Lua com corona SDK
+
+Final Work Digital Games, Flappy Plane in Lua with corona Solar 2d
 
 How to use:
 
